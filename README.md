@@ -1,3 +1,5 @@
 <h1>Sistema Sorteador de Números</h1>
 
-> Status do projeto: Em desenvolvimento
+Gere a quantidade de números aleatórios que desejar, definindo o intervalo mínimo e máximo que estes números deverão estar.
+
+> Status do projeto: Concluído
